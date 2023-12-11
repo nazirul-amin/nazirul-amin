@@ -1,4 +1,4 @@
-<img align="right" width="45%" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" alt="Illustration" title="Illustration Storyset" />
+<img align="right" width="35%" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" alt="Illustration" title="Illustration Storyset" />
   
 <h1 align="left">Hi, I'm Nazirul</h1>
 <br>
