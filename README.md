@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm Nazirul</h1>
 <br>
 
-<p align="left">I’m a software developer with a passion for web and mobile technologies. I enjoy working on full-stack projects and always seek to improve my skills in various programming languages and frameworks. My main focus areas include backend development, frontend frameworks, and mobile app development. Outside of coding, I love exploring new tools and technologies that can help me build better, faster, and more scalable applications.</p>
+<p align="left">I’m a software developer with a passion for web and mobile technologies. I enjoy working on full-stack projects and always seek to improve my skills in various programming languages and frameworks. My main focus areas include backend development, frontend frameworks, and mobile app development. Outside of works, I love exploring new tools and technologies that can help me build better, faster, and more scalable applications.</p>
 
 <p align="left">Feel free to check out my work and reach out if you'd like to collaborate on exciting projects!</p>
 
